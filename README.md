@@ -6,6 +6,7 @@ It is currently not being worked on, but if you have questions or wish to contri
 ## Usage ##
 Just run the the latest exe from the releases and follow the instructions in the program. Make sure you have the .NET framework installed (latest version will do).
 Expect crashes! I have not done any extensive QA or debugging on this.
+Currently only Silent Hill 2: Director's Cut (NA) is supported for SH2.
 
 ## Other ##
 You can check out my main Silent Hill project here: https://github.com/JokieW/ShiningHill
