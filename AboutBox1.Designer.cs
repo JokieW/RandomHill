@@ -80,7 +80,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(105, 13);
             this.label4.TabIndex = 28;
-            this.label4.Text = "Discord: Jokie#0001";
+            this.label4.Text = "";
             // 
             // label5
             // 
@@ -89,7 +89,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(98, 13);
             this.label5.TabIndex = 29;
-            this.label5.Text = "Twitter: @Jokie_W";
+            this.label5.Text = "";
             // 
             // label6
             // 
